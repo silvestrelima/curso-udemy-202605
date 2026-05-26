@@ -1,10 +1,10 @@
 # Claude Code — Curso Udemy (Maio 2026)
 
-Repositório de acompanhamento do curso prático de Claude Code ministrado na Udemy, cobrindo o uso do CLI oficial da Anthropic para automação de tarefas de desenvolvimento com IA.
+Repositório de acompanhamento do curso prático de **Claude Code** ministrado na Udemy, cobrindo o uso do CLI oficial da Anthropic para automação de tarefas de desenvolvimento com IA.
 
 ## Sobre o curso
 
-Este repositório reúne os exemplos, exercícios e projetos desenvolvidos ao longo do curso. O objetivo é demonstrar como utilizar o Claude Code para acelerar fluxos de trabalho de engenharia de software, desde tarefas simples de edição de código até automações mais complexas com agentes.
+Este repositório reúne exemplos, exercícios e projetos desenvolvidos ao longo do curso. O objetivo é demonstrar como utilizar o Claude Code para acelerar fluxos de trabalho de engenharia de software — desde tarefas simples de edição de código até automações complexas com agentes e hooks.
 
 ## Conteúdo
 
@@ -22,7 +22,8 @@ Este repositório reúne os exemplos, exercícios e projetos desenvolvidos ao lo
 
 - Node.js 18+
 - Conta na [Anthropic](https://www.anthropic.com/) com acesso à API
-- Claude Code CLI instalado: `npm install -g @anthropic-ai/claude-code`
+- GitHub CLI: `winget install --id GitHub.cli`
+- Claude Code CLI: `npm install -g @anthropic-ai/claude-code`
 
 ## Como usar
 
@@ -39,6 +40,7 @@ claude
 
 - [Documentação oficial do Claude Code](https://docs.anthropic.com/claude-code)
 - [Anthropic API](https://www.anthropic.com/api)
+- [GitHub CLI](https://cli.github.com/)
 
 ## Licença
 
